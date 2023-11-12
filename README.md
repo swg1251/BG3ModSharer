@@ -7,7 +7,9 @@ Supports installing/uninstalling all included mods. Does not support individual 
 Copies files from the "included" game/appdata folders to actual game/appdata folders or reverts them.
 
 ## Usage
-This program requires certain mods to be downloaded and the following folders/files need to exist in the same directory as BG3M.exe:
+Grab the latest [release](https://github.com/swg1251/BG3ModSharer/releases) and extract `Mods.7z` to the `Mods` folder in the same directory as BG3M.exe
+This program requires certain mods to be downloaded. These files will be included
+with each release. The directory structure after extracting will look like:
 ```
 BG3M.exe
 Mods
@@ -26,6 +28,8 @@ Game
     | ScriptExtenderSettings.json
 |---Data
     |---Mods
-        | (files from party limit begone mod here)
+        | (folders/files from party limit begone mod here)
 ```
-Once setup is done, simply run the BG3M.exe and follow the prompts.
+Once the above is ready:
+- Windows - simply run BG3M.exe and follow the prompts.
+- Steam Deck - use [Protontricks](https://github.com/Matoking/protontricks) to launch BG3M.exe in the Baldur's Gate 3 proton context

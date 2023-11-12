@@ -3,7 +3,7 @@ The purpose of this app is to synchronize Baldur's Gate 3 mods between multiple 
 I designed this to easily keep mods in sync and/or uninstalled across my PC and Steam Deck.
 It could also serve to synchronize mods between multiple playerss for MP campaign purposes.
 
-Supports installing/uninstalling all included mods. Does not support individual modding.
+Supports installing/uninstalling all included mods at once only. Does not support individual modding.
 Copies files from the "included" game/appdata folders to actual game/appdata folders or reverts them.
 
 ## Usage

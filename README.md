@@ -20,15 +20,15 @@ Mods
 |      ---Public
 |         | modsettings.lsx (your current mod list)
 |         | modsettings_original.lsx (a copy of the unmodified file)
-Game
-|---bin
-    | bink2w64.dll (party limit begone mod)
-    | bink2w64_original.dll (backup of original dll)
-    | DWrite.dll (script extender)
-    | ScriptExtenderSettings.json
-|---Data
-    |---Mods
-        | (folders/files from party limit begone mod here)
+|---Game
+    |---bin
+        | bink2w64.dll (party limit begone mod)
+        | bink2w64_original.dll (backup of original dll)
+        | DWrite.dll (script extender)
+        | ScriptExtenderSettings.json
+    |---Data
+        |---Mods
+            | (folders/files from party limit begone mod here)
 ```
 Once the above is ready:
 - Windows - simply run BG3M.exe and follow the prompts.

@@ -14,12 +14,12 @@ with each release. The directory structure after extracting will look like:
 BG3M.exe
 Mods
 |---AppData
-|   ---Mods
-|   |  (your .pak files here)
-|   ---PlayerProfiles
-|      ---Public
-|         | modsettings.lsx (your current mod list)
-|         | modsettings_original.lsx (a copy of the unmodified file)
+|   |---Mods
+|       |  (your .pak files here)
+|   |---PlayerProfiles
+|       |---Public
+|           | modsettings.lsx (your current mod list)
+|           | modsettings_original.lsx (a copy of the unmodified file)
 |---Game
     |---bin
         | bink2w64.dll (party limit begone mod)
